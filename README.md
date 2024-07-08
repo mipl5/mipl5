@@ -1,0 +1,3 @@
+- 👋 Hi, my name is Michael
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning algortihms and programming on C# and Java Android Developing.
